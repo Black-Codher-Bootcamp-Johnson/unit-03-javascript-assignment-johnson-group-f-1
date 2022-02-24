@@ -65,6 +65,8 @@ The only HTML you should add to the `body` is in step 1. Everything else should 
 1. Create an external stylesheet here `css/main.css` (see [CSS](#css) for more info)
 1. [Deployed to Netlify](https://docs.netlify.com/site-deploys/create-deploys/) and your [site's status badge](https://docs.netlify.com/monitor-sites/status-badges/) added to this file (`README.md`)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fdb1c84e-e7f8-4e6c-8bfe-9b59e48d40d1/deploy-status)](https://app.netlify.com/sites/jolly-villani-bfe7d7/deploys)
+
 ### CSS
 
 All styling (CSS) is completely up to you, but must be in a folder named `css` with a primary stylesheet called `main.css`.

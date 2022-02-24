@@ -1,0 +1,11 @@
+* {
+  background-color: pink;
+  font-family: "Redressed", cursive;
+  text-align: center;
+}
+
+img {
+  width: 70%;
+  height: auto;
+  border-radius: 20%;
+}

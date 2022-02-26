@@ -9,3 +9,7 @@ img {
   height: auto;
   border-radius: 20%;
 }
+
+p {
+  color: red;
+}
